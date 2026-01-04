@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm George Michoulis 👋</h1>
-<h3 align="center">Full Stack Engineer | Blockchain Developer | AI Enthusiast</h3>
+<h3 align="center">Web3 / Full-Stack Developer | AI Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/gmixoulis">
