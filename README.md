@@ -23,10 +23,9 @@
 
 I am a passionate **Software and AI Engineer** with a strong academic background (**MSc in Data & Web Science, GPA 4.0**) and extensive practical experience in **Web3**, **Distributed Systems**, and **Artificial Intelligence**. My Master's thesis on **Graph Embeddings** solidified my expertise in **Data Science** and **PyTorch**, fundamental to my work in AI.
 
-Currently, I work as a **Blockchain Researcher & Full-Stack Developer** at Sidroco Holdings while also lecturing at Mediterranean College. My expertise bridges the gap between theoretical research and production-grade applications, having delivered solutions for **EU-funded projects**, **University Metaverses**, and **Decentralized Finance**.
+Currently, I work as a **Blockchain Researcher & Full-Stack Developer** at Sidroco Holdings while also lecturing at Mediterranean College. My expertise bridges the gap between theoretical research and production-grade applications, having delivered solutions for **EU-funded projects**, **Web3 Solutions** and many more.
 
-- 🔭 I’m currently specializing in **Zero Knowledge Proofs (ZKPs)** and **Advanced Graph Neural Networks (Using PyTorch)**.
-- 💡 Notable achievement: **DeepMind Scholarship Recipient** and **Infinitech Hackathon Winner**.
+- 🔭 I’m currently intrested in researching  **Zero Knowledge Proofs (ZKPs)** and **Advanced Graph Neural Networks (Using PyTorch)**.
 
 ---
 
@@ -78,18 +77,7 @@ I have contributed to high-impact projects ranging from EU research initiatives 
 
 ### 🎓 Education
 
-- **MSc Data and Web Science** (GPA 4.0) | _Aristotle University of Thessaloniki_
+- **MSc Data and Web Science** | _Aristotle University of Thessaloniki_
   - _Thesis_: Graph Embeddings in Drug-Target Interaction
-- **BSc Applied Informatics** (GPA 3.5) | _University of Macedonia_
+- **BSc Applied Informatics** | _University of Macedonia_
   - _Thesis_: Verification of academic qualification through Blockchain technology
-
----
-
-<div align="center">
-  
-<a href="https://github.com/gmixoulis">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gmixoulis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmixoulis&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
