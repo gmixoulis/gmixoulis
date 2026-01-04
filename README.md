@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm George Michoulis 👋</h1>
-<h3 align="center">Software Engineer | Blockchain Researcher | Full Stack Developer</h3>
+<h3 align="center">Software and AI Engineer | Blockchain / Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/george-michoulis">
@@ -21,11 +21,11 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Software Engineer** with a strong academic background (**MSc in Data & Web Science, GPA 4.0**) and extensive practical experience in **Web3**, **Distributed Systems**, and **Artificial Intelligence**.
+I am a passionate **Software and AI Engineer** with a strong academic background (**MSc in Data & Web Science, GPA 4.0**) and extensive practical experience in **Web3**, **Distributed Systems**, and **Artificial Intelligence**. My Master's thesis on **Graph Embeddings** solidified my expertise in **Data Science** and **PyTorch**, fundamental to my work in AI.
 
 Currently, I work as a **Blockchain Researcher & Full-Stack Developer** at Sidroco Holdings while also lecturing at Mediterranean College. My expertise bridges the gap between theoretical research and production-grade applications, having delivered solutions for **EU-funded projects**, **University Metaverses**, and **Decentralized Finance**.
 
-- 🔭 I’m currently specializing in **Zero Knowledge Proofs (ZKPs)** and **Advanced Graph Neural Networks**.
+- 🔭 I’m currently specializing in **Zero Knowledge Proofs (ZKPs)** and **Advanced Graph Neural Networks (Using PyTorch)**.
 - 💡 Notable achievement: **DeepMind Scholarship Recipient** and **Infinitech Hackathon Winner**.
 
 ---
