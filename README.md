@@ -46,16 +46,16 @@ Currently, I work as a **Blockchain Researcher & Full-Stack Developer** at Sidro
 
 I have contributed to high-impact projects ranging from EU research initiatives to production dApps.
 
-| Project                                                                                   | Description                                                                                                       | Tech Stack                                 |
-| :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| **[NFT-Marketplace](https://github.com/gmixoulis/NFT-Marketplace)**                       | **(MetaU)** Production dApp integrating Arweave storage for university exams. Generated **€250k+ in ETH** volume. | `React` `Hardhat` `Solidity`               |
-| **[Verde-Core](https://github.com/gmixoulis/Verde-Core)**                                 | **Award-Winning** academic verification system. First blockchain dApp at UoM.                                     | `Solidity` `Ethereum` `React`              |
-| **[Enterprise-Flask-Dashboard](https://github.com/gmixoulis/Enterprise-Flask-Dashboard)** | **Horizon 2020** deliverable. Scalable dashboard for 5G network management.                                       | `Flask` `Docker` `Gulp`                    |
-| **[Fabric-Asset-Marketplace](https://github.com/gmixoulis/Fabric-Asset-Marketplace)**     | Private permissioned blockchain using Hyperledger Fabric for asset trading.                                       | `Hyperledger Fabric` `Node.js` `Chaincode` |
-| **[NextGen-AI-Learning](https://github.com/gmixoulis/NextGen-AI-Learning)**               | Adaptive E-learning platform leveraging **OpenAI** for personalized content.                                      | `Next.js` `OpenAI API` `Tailwind`          |
-| **[Decentralized-Voting](https://github.com/gmixoulis/Decentralized-Voting)**             | Trustless voting interface ensuring transparent governance on-chain.                                              | `React` `Solidity` `Web3.js`               |
-| **[CURE-Spark-Clustering](https://github.com/gmixoulis/CURE-Spark-Clustering)**           | Distributed hierarchical clustering algorithm implementation for Big Data.                                        | `Scala` `Apache Spark`                     |
-| **[Real-Estate-Marketplace](https://github.com/gmixoulis/Real-Estate-Marketplace)**       | Modern property listing platform with interactive maps and AI chatbot.                                            | `Vue.js` `Mapbox` `Chatbot`                |
+| Project                                                                                   | Description                                                                                                | Tech Stack                                 |
+| :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
+| **[NFT-Marketplace](https://github.com/gmixoulis/NFT-Marketplace)**                       | A decentralized application for minting, listing, and trading NFTs, featuring Arweave storage integration. | `React` `Hardhat` `Solidity`               |
+| **[Verde-Core](https://github.com/gmixoulis/Verde-Core)**                                 | A decentralized system for issuing and verifying academic credentials on the Ethereum blockchain.          | `Solidity` `Ethereum` `React`              |
+| **[Enterprise-Flask-Dashboard](https://github.com/gmixoulis/Enterprise-Flask-Dashboard)** | A scalable analytics dashboard designed for complex network management and monitoring.                     | `Flask` `Docker` `Gulp`                    |
+| **[Fabric-Asset-Marketplace](https://github.com/gmixoulis/Fabric-Asset-Marketplace)**     | Private permissioned blockchain system for secure and transparent asset trading.                           | `Hyperledger Fabric` `Node.js` `Chaincode` |
+| **[NextGen-AI-Learning](https://github.com/gmixoulis/NextGen-AI-Learning)**               | Adaptive E-learning platform that leverages OpenAI to generate personalized course content.                | `Next.js` `OpenAI API` `Tailwind`          |
+| **[Decentralized-Voting](https://github.com/gmixoulis/Decentralized-Voting)**             | Trustless voting interface ensuring transparent and tamper-proof governance on-chain.                      | `React` `Solidity` `Web3.js`               |
+| **[CURE-Spark-Clustering](https://github.com/gmixoulis/CURE-Spark-Clustering)**           | Implementation of distributed hierarchical clustering algorithms optimized for Big Data processing.        | `Scala` `Apache Spark`                     |
+| **[Real-Estate-Marketplace](https://github.com/gmixoulis/Real-Estate-Marketplace)**       | Modern property listing platform integrating interactive maps and an AI-driven chatbot assistant.          | `Vue.js` `Mapbox` `Chatbot`                |
 
 ---
 
