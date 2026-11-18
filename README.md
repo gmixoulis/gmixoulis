@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm George Michoulis 👋</h1>
-<h3 align="center">Software and AI Engineer | Blockchain / Full Stack Developer</h3>
+<h3 align="center">AI Engineer | RAG &amp; LLM Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/george-michoulis">
@@ -21,11 +21,17 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Software and AI Engineer** with a strong academic background (**MSc in Data & Web Science, GPA 4.0**) and extensive practical experience in **Web3**, **Distributed Systems**, and **Artificial Intelligence**. My Master's thesis on **Graph Embeddings** solidified my expertise in **Data Science** and **PyTorch**, fundamental to my work in AI.
+I am a **Software and AI Engineer** (**MSc in Data & Web Science, GPA 4.0**) focused on **retrieval-augmented generation (RAG)** and **large language models**: how to ground them in real documents and data, run them locally, adapt them cheaply, and keep them trustworthy.
 
-Currently, I work as a **Blockchain Researcher & Full-Stack Developer** at Sidroco Holdings while also lecturing at Mediterranean College. My expertise bridges the gap between theoretical research and production-grade applications, having delivered solutions for **EU-funded projects**, **Web3 Solutions** and many more.
+My background in **graph embeddings** and **PyTorch** (MSc thesis) carries into this work, and years of production **full-stack** and **distributed-systems** experience mean I build the whole pipeline, from ingestion to the API and UI around it. I currently work as a Researcher & Full-Stack Developer at Sidroco Holdings and lecture at Mediterranean College.
 
-- 🔭 I’m currently intrested in researching  **Zero Knowledge Proofs (ZKPs)** and **Advanced Graph Neural Networks (Using PyTorch)**.
+### 🔭 What I'm working on
+
+- **RAG pipelines**: chunking, embeddings, sharded and hybrid retrieval, scatter-gather queries across nodes.
+- **Local and on-prem LLMs**: inference split across machines, Ollama and llama.cpp setups, private data that never leaves the network.
+- **Parameter-efficient fine-tuning**: LoRA, including federated variants (FedAvg, FFA-LoRA).
+- **Grounded, guarded generation**: read-only text-to-SQL over business data, with memory for taught facts.
+- **Agents and LLMOps**: tool-using agents, evaluation, and the systems around them.
 
 ---
 
@@ -33,9 +39,9 @@ Currently, I work as a **Blockchain Researcher & Full-Stack Developer** at Sidro
 
 <div align="center">
 
-|                                                                                                                                                                                                               **Languages**                                                                                                                                                                                                               |                                                                                                                                                                                                                 **Frontend**                                                                                                                                                                                                                  |                                                                                                                                                                                                             **Backend**                                                                                                                                                                                                             |                                                                                                                                                                                                                    **Blockchain**                                                                                                                                                                                                                     |                                                                                                                                                                                                                      **AI / Data**                                                                                                                                                                                                                       |                                                                                                                                                                                                                **DevOps / Cloud**                                                                                                                                                                                                                |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) <br> ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) <br> ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) <br> ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) <br> ![Fabric](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) <br> ![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=for-the-badge&logo=hardhat&logoColor=black) <br> ![Sui](https://img.shields.io/badge/Sui_Move-4DA2FF?style=for-the-badge&logo=sui&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) <br> ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| **LLM / RAG** | **ML** | **Languages** | **Backend / Infra** |
+| :---: | :---: | :---: | :---: |
+| ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) <br> ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) <br> ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br> ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) <br> ![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) |
 
 </div>
 
@@ -43,26 +49,40 @@ Currently, I work as a **Blockchain Researcher & Full-Stack Developer** at Sidro
 
 ### 🚀 Featured Projects
 
-I have contributed to high-impact projects ranging from EU research initiatives to production dApps.
+| Project | Description | Tech Stack |
+| :-- | :-- | :-- |
+| **[fabric-fed-rag](https://github.com/gmixoulis/fabric-fed-rag)** | Decentralized RAG with 50/50 sharded PDFs on a private IPFS swarm, plus federated LoRA training (FedAvg and FFA-LoRA). A Raft + mTLS ledger commits document and adapter hashes, and rejects tampered backups. | `Python` `TypeScript` `LoRA` `Ollama` `IPFS` `Docker` |
+| **[NextGen-AI-Learning](https://github.com/gmixoulis/NextGen-AI-Learning)** | Adaptive e-learning platform that uses OpenAI to generate personalized course content. | `Next.js` `OpenAI API` `Tailwind` |
+| **[Real-Estate-Marketplace](https://github.com/gmixoulis/Real-Estate-Marketplace)** | Property listing platform with interactive maps and an AI chatbot assistant. | `Vue.js` `Mapbox` `Chatbot` |
+| **[Humor-NLP-Research](https://github.com/gmixoulis/Humor-NLP-Research)** | Group project on generating jokes and categorizing them with NLP. | `Python` `NLP` |
+| **[AI-Comedian-LSTM](https://github.com/gmixoulis/AI-Comedian-LSTM)** | Text generation with an LSTM language model. | `Python` `LSTM` |
+| **[DTI-Graph-Embeddings](https://github.com/gmixoulis/DTI-Graph-Embeddings)** | MSc thesis: graph embeddings for drug-target interaction prediction. | `PyTorch` `Jupyter` |
 
-| Project                                                                                   | Description                                                                                                | Tech Stack                                 |
-| :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| **[NFT-Marketplace](https://github.com/gmixoulis/NFT-Marketplace)**                       | A decentralized application for minting, listing, and trading NFTs, featuring Arweave storage integration. | `React` `Hardhat` `Solidity`               |
-| **[Verde-Core](https://github.com/gmixoulis/Verde-Core)**                                 | A decentralized system for issuing and verifying academic credentials on the Ethereum blockchain.          | `Solidity` `Ethereum` `React`              |
-| **[Enterprise-Flask-Dashboard](https://github.com/gmixoulis/Enterprise-Flask-Dashboard)** | A scalable analytics dashboard designed for complex network management and monitoring.                     | `Flask` `Docker` `Gulp`                    |
-| **[Fabric-Asset-Marketplace](https://github.com/gmixoulis/Fabric-Asset-Marketplace)**     | Private permissioned blockchain system for secure and transparent asset trading.                           | `Hyperledger Fabric` `Node.js` `Chaincode` |
-| **[NextGen-AI-Learning](https://github.com/gmixoulis/NextGen-AI-Learning)**               | Adaptive E-learning platform that leverages OpenAI to generate personalized course content.                | `Next.js` `OpenAI API` `Tailwind`          |
-| **[Decentralized-Voting](https://github.com/gmixoulis/Decentralized-Voting)**             | Trustless voting interface ensuring transparent and tamper-proof governance on-chain.                      | `React` `Solidity` `Web3.js`               |
-| **[CURE-Spark-Clustering](https://github.com/gmixoulis/CURE-Spark-Clustering)**           | Implementation of distributed hierarchical clustering algorithms optimized for Big Data processing.        | `Scala` `Apache Spark`                     |
-| **[Real-Estate-Marketplace](https://github.com/gmixoulis/Real-Estate-Marketplace)**       | Modern property listing platform integrating interactive maps and an AI-driven chatbot assistant.          | `Vue.js` `Mapbox` `Chatbot`                |
+<details>
+<summary><b>Earlier work: blockchain and distributed systems</b></summary>
+<br>
+
+| Project | Description | Tech Stack |
+| :-- | :-- | :-- |
+| **[NFT-Marketplace](https://github.com/gmixoulis/NFT-Marketplace)** | Decentralized app for minting, listing, and trading NFTs with Arweave storage. | `React` `Hardhat` `Solidity` |
+| **[Asset_Fractionalization](https://github.com/gmixoulis/Asset_Fractionalization)** | Fractional real-estate ownership as a Metaplex NFT collection on Solana, with on-chain purchase memos and a portfolio dashboard. | `Solana` `Metaplex` `Next.js` `Rust` |
+| **[Verde-Core](https://github.com/gmixoulis/Verde-Core)** | Issuing and verifying academic credentials on Ethereum. | `Solidity` `Ethereum` `React` |
+| **[Fabric-Asset-Marketplace](https://github.com/gmixoulis/Fabric-Asset-Marketplace)** | Permissioned blockchain system for asset trading. | `Hyperledger Fabric` `Node.js` |
+| **[Decentralized-Voting](https://github.com/gmixoulis/Decentralized-Voting)** | Tamper-proof on-chain voting interface. | `React` `Solidity` `Web3.js` |
+| **[Enterprise-Flask-Dashboard](https://github.com/gmixoulis/Enterprise-Flask-Dashboard)** | Analytics dashboard for network management and monitoring. | `Flask` `Docker` |
+| **[CURE-Spark-Clustering](https://github.com/gmixoulis/CURE-Spark-Clustering)** | Distributed hierarchical clustering for big data. | `Scala` `Apache Spark` |
+
+</details>
 
 ---
 
 ### 🏆 Honors & Awards
 
-- 🥇 **DeepMind’s Scholarship (2020-2022)** | Aristotle University of Thessaloniki
-- 🥇 **1st Place, Basic Research Awards (UoM)** | For _Verde_ Academic Verification DApp
+- 🥇 **1st Place, Cursor Athens Hackathon (2026)**
+- 🥇 **Winner, Solana Ideathon Düsseldorf (2026)** | Real-estate fractionalization on Solana: [Asset_Fractionalization](https://github.com/gmixoulis/Asset_Fractionalization)
 - 🥉 **3rd Place, Infinitech Hackathon (2022)** | Fintech innovation by Crowdpolicy
+- 🥇 **DeepMind Scholarship (2020-2022)** | Fully funded MSc, Aristotle University of Thessaloniki
+- 🥇 **1st Place, Basic Research Awards (UoM)** | For the _Verde_ academic verification dApp: [Verde-Core](https://github.com/gmixoulis/Verde-Core)
 
 ---
 
